@@ -1,0 +1,19 @@
+body {
+    background: #CCCCCC;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+#banner{
+    height: 600px;
+    width: 100%;
+}
+ul{
+    display:inline-block;
+}
